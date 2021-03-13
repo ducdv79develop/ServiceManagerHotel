@@ -1,0 +1,18 @@
+.input-font {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+.is-invalid {
+    border: 1px solid #ff0000 !important;
+}
+
+.error {
+    text-align: left !important;
+    color: #ff0000;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    margin-top: -20px;
+    margin-bottom: 5px;
+}
