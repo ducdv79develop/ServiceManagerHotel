@@ -1,1 +1,1 @@
-hotel_manager
+Service Manager Hotel
